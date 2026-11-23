@@ -1,0 +1,4 @@
+# dsh-aliyun-coupon —— 把「阿里云代金券」页面挂进 DSH
+- insert:
+    - id: dsh-aliyun-coupon
+      name: dsh-aliyun-coupon

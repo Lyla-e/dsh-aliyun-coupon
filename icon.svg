@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Alibaba Cloud coupon">
+  <rect x="6" y="15" width="52" height="34" rx="7" fill="#FF6A00"/>
+  <path d="M42 20V44" stroke="#FFFFFF" stroke-opacity="0.85" stroke-width="2" stroke-dasharray="3 3" stroke-linecap="round"/>
+  <g fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M17.5 23.5 24 31"/>
+    <path d="M30.5 23.5 24 31"/>
+    <path d="M24 31V41"/>
+    <path d="M18.5 33.5H29.5"/>
+    <path d="M18.5 37H29.5"/>
+  </g>
+</svg>

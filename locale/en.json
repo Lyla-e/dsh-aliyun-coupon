@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Alibaba Cloud coupons",
+    "description": "Adds an Alibaba Cloud coupons entry to the left sidebar. The page shows the remaining balance, face value, used amount and expiry of every voucher on the account's coupon page, read through the read-only Alibaba Cloud BSS OpenAPI. Setup: create a RAM user with programmatic access, grant it AliyunBSSReadOnlyAccess, then paste its AccessKey ID and Secret into the page; the pair is written to the local DSH credential store and the browser only sees a masked id. Only read-only requests to business.aliyuncs.com are made; turning the plugin off removes the page and its routes.",
+    "detail": "docs/DETAIL.md"
+  }
+}

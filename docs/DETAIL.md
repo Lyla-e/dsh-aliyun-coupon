@@ -1,0 +1,1 @@
+![Coupon panel with a balance summary and coupon rows](preview.svg)

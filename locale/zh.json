@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "阿里云代金券",
+    "description": "在左侧边栏加一个「阿里云代金券」入口，页面显示账号卡券页里每张代金券的剩余余额、面额、已抵扣金额和到期时间，数据通过阿里云 BSS OpenAPI 只读获取。使用前先在阿里云 RAM 控制台创建一个只读子账号并授予 AliyunBSSReadOnlyAccess，再把 AccessKey ID / Secret 填进页面；密钥只写入本机 DSH 凭据存储，浏览器只能看到掩码。插件只向 business.aliyuncs.com 发只读请求，关闭后页面和对应接口一起消失。",
+    "detail": "docs/DETAIL.zh.md"
+  }
+}
