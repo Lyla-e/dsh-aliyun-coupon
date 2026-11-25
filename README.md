@@ -15,6 +15,12 @@
 - 每张券一行：剩余/面额、进度条、状态（可用 / 已过期 / 已用完）、券号（脱敏）、有效期、适用产品；
 - 「刷新」强制重查，宿主对结果做 60 秒缓存，避免触发接口频控。
 
+![侧栏入口与余额概览](assets/screenshot-sidebar.png)
+
+![余额概览](assets/screenshot-overview.png)
+
+![更换凭证](assets/screenshot-credentials.png)
+
 ## 配置只读 AccessKey
 
 插件需要一对**只读** RAM AccessKey（`LTAI…`，不是百炼的 `sk-` Key）。第一次打开页面
